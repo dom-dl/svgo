@@ -15,7 +15,7 @@ exports.params = {
     },
     straightCurves: true,
     lineShorthands: true,
-    curveSmoothShorthands: true,
+    curveSmoothShorthands: false,
     floatPrecision: 3,
     transformPrecision: 5,
     removeUseless: true,
